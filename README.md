@@ -1,6 +1,9 @@
-# 專長
+# 職稱
+助理教授 <font color=#008000>**兼教學資源組組長**</font> 
+# 授課領域
+國際企業管理、國際行銷管理、循環經濟、策略管理、碳盤查數位化
+# 研究領域
 國際企業、策略管理
-# 經歷
 
 <!---
 alittleken/alittleken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
